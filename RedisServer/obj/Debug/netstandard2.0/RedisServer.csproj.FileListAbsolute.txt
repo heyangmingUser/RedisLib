@@ -1,0 +1,8 @@
+C:\Users\heyangming\Desktop\Redis编程\RedisServer\RedisServer\bin\Debug\netstandard2.0\RedisServer.deps.json
+C:\Users\heyangming\Desktop\Redis编程\RedisServer\RedisServer\bin\Debug\netstandard2.0\RedisServer.dll
+C:\Users\heyangming\Desktop\Redis编程\RedisServer\RedisServer\obj\Debug\netstandard2.0\RedisServer.AssemblyInfoInputs.cache
+C:\Users\heyangming\Desktop\Redis编程\RedisServer\RedisServer\obj\Debug\netstandard2.0\RedisServer.AssemblyInfo.cs
+C:\Users\heyangming\Desktop\Redis编程\RedisServer\RedisServer\obj\Debug\netstandard2.0\RedisServer.csprojAssemblyReference.cache
+C:\Users\heyangming\Desktop\Redis编程\RedisServer\RedisServer\bin\Debug\netstandard2.0\RedisServer.pdb
+C:\Users\heyangming\Desktop\Redis编程\RedisServer\RedisServer\obj\Debug\netstandard2.0\RedisServer.dll
+C:\Users\heyangming\Desktop\Redis编程\RedisServer\RedisServer\obj\Debug\netstandard2.0\RedisServer.pdb
